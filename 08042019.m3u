@@ -1,0 +1,899 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://i66.tinypic.com/vxg12r.png" pltv-name="Canal Futucandroid" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://i67.tinypic.com/r1j2n6.png" pltv-author="Silvana Bastos" pltv-site="" pltv-email="futucadrois@gmail.com" pltv-phone=""
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CAMERA 1º FHD ¹
+http://quatv2.com:8080/1388/1388/17606
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CAMERA 1 HD ² - FONTE 2
+http://quatv2.com:8080/1388/1388/17602
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CAMERA 1 HD ² (FONTE 2)
+http://quatv2.com:8080/1388/1388/10863
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CAMERA 2º FHD ¹
+http://quatv2.com:8080/1388/1388/17726
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CAMERA 2 HD ²
+http://quatv2.com:8080/1388/1388/17605
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CAMERA 3 HD ¹
+http://quatv2.com:8080/1388/1388/17727
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CÂMERA 4 FHD ¹
+http://quatv2.com:8080/1388/1388/17728
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CÂMERA 5 FHD ¹
+http://quatv2.com:8080/1388/1388/17729
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CÂMERA 6 FHD ¹
+http://quatv2.com:8080/1388/1388/17730
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CÂMERA 7 HD ¹
+http://quatv2.com:8080/1388/1388/17731
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CÂMERA 8 FHD ¹
+http://quatv2.com:8080/1388/1388/17732
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CÂMERA 9 HD ¹
+http://quatv2.com:8080/1388/1388/17733
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CÂMERA 10 HD ¹
+http://quatv2.com:8080/1388/1388/17734
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CÂMERA 11 HD ¹
+http://quatv2.com:8080/1388/1388/17735
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 MOSAICO 4 CÂMERAS FHD ¹
+http://quatv2.com:8080/1388/1388/17725
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 MOSAICO 4 CÂMERAS HD ²
+http://quatv2.com:8080/1388/1388/17603
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BBB 2019 CAMERA 1 HD ² - (FONTE 2)
+http://quatv2.com:8080/1388/1388/18834
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBO SP FHD ¹
+http://quatv2.com:8080/1388/1388/6282
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBO SP FHD ²
+http://quatv2.com:8080/1388/1388/31234
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBO SP SD ²
+http://quatv2.com:8080/1388/1388/7506
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBO RJ FHD ¹
+http://quatv2.com:8080/1388/1388/17391
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBO RJ HD ¹
+http://quatv2.com:8080/1388/1388/17392
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBO RJ SD ²
+http://quatv2.com:8080/1388/1388/12114
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBO NEWS FHD ²
+http://quatv2.com:8080/1388/1388/31244
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBO NEWS HD ¹
+http://quatv2.com:8080/1388/1388/17342
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBO NEWS SD ³
+http://quatv2.com:8080/1388/1388/4390
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD FHD ¹
+http://quatv2.com:8080/1388/1388/6280
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD SP HD ³
+http://quatv2.com:8080/1388/1388/7690
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD TV SP HD ²
+http://quatv2.com:8080/1388/1388/4145
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD SP SD ³
+http://quatv2.com:8080/1388/1388/12119
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD HD ¹
+http://quatv2.com:8080/1388/1388/19193
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD SD ²
+http://quatv2.com:8080/1388/1388/12113
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD RJ FHD ³
+http://quatv2.com:8080/1388/1388/43435
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD RJ HD ²
+http://quatv2.com:8080/1388/1388/44982
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD RJ SD ³
+http://quatv2.com:8080/1388/1388/43774
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD NEWS FHD ¹
+http://quatv2.com:8080/1388/1388/30666
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",RECORD NEWS SD ³
+http://quatv2.com:8080/1388/1388/19533
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SBT FHD ¹
+http://quatv2.com:8080/1388/1388/6281
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SBT HD ¹
+http://quatv2.com:8080/1388/1388/7391
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SBT SD ³
+http://quatv2.com:8080/1388/1388/4159
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SBT RJ HD ²
+http://quatv2.com:8080/1388/1388/44981
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BAND SP FHD ³
+http://quatv2.com:8080/1388/1388/43491
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BAND HD ³
+http://quatv2.com:8080/1388/1388/19227
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BAND SD ¹
+http://quatv2.com:8080/1388/1388/14040
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BAND RJ HD ²
+http://quatv2.com:8080/1388/1388/44980
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BAND NEWS FHD ¹
+http://quatv2.com:8080/1388/1388/8927
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BAND NEWS SD ³
+http://quatv2.com:8080/1388/1388/8002
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",REDE TV FHD ²
+http://quatv2.com:8080/1388/1388/31162
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",REDE TV HD ²
+http://quatv2.com:8080/1388/1388/4161
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",REDE TV SD ¹
+http://quatv2.com:8080/1388/1388/19234
+
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CANAL BRASIL HD ¹
+http://quatv2.com:8080/1388/1388/17344
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CANAL BRASIL HD ³
+http://quatv2.com:8080/1388/1388/43487
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CANAL BRASIL SD ²
+http://quatv2.com:8080/1388/1388/482
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CANAL DO BOI SD ²
+http://quatv2.com:8080/1388/1388/483
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CULTURA FHD ¹
+http://quatv2.com:8080/1388/1388/19232
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FUTURA HD ³
+http://quatv2.com:8080/1388/1388/43486
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FUTURA SD ²
+http://quatv2.com:8080/1388/1388/4193
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TV DIARIO SD ³
+http://quatv2.com:8080/1388/1388/8199
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TV ESCOLA SD ²
+http://quatv2.com:8080/1388/1388/8160
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NBR SD ²
+http://quatv2.com:8080/1388/1388/4167
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX SPORTS FHD ¹
+http://quatv2.com:8080/1388/1388/6322
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX SPORTS HD ¹
+http://quatv2.com:8080/1388/1388/19202
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX SPORTS SD ²
+http://quatv2.com:8080/1388/1388/400
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX SPORTS 2 FHD ¹
+http://quatv2.com:8080/1388/1388/6321
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX SPORTS 2 HD ²
+http://quatv2.com:8080/1388/1388/2760
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX SPORTS 2 SD ²
+http://quatv2.com:8080/1388/1388/398
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",COMBATE FHD ¹
+http://quatv2.com:8080/1388/1388/6324
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",COMBATE HD ²
+http://quatv2.com:8080/1388/1388/415
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",COMBATE SD ³
+http://quatv2.com:8080/1388/1388/7904
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPORTV FHD ¹
+http://quatv2.com:8080/1388/1388/6316
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPORTV HD ¹
+http://quatv2.com:8080/1388/1388/378
+
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPORTV SD ³
+http://quatv2.com:8080/1388/1388/7905
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPORTV 2 FHD ¹
+http://quatv2.com:8080/1388/1388/6315
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPORTV 2 HD ¹
+http://quatv2.com:8080/1388/1388/376
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPORTV 2 SD ³
+http://quatv2.com:8080/1388/1388/19390
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPORTV 3 FHD ¹
+http://quatv2.com:8080/1388/1388/6314
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPORTV 3 HD ¹
+http://quatv2.com:8080/1388/1388/374
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPORTV 3 SD ³
+http://quatv2.com:8080/1388/1388/4307
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BAND SPORTS FHD ¹
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BAND SPORTS HD ²
+http://quatv2.com:8080/1388/1388/17338
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BAND SPORTS SD ²
+http://quatv2.com:8080/1388/1388/416
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN FHD ³
+http://quatv2.com:8080/1388/1388/43472
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN HD ²
+http://quatv2.com:8080/1388/1388/409
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN SD ²
+http://quatv2.com:8080/1388/1388/408
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN BRASIL FHD ¹
+http://quatv2.com:8080/1388/1388/6323
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN BRASIL HD ¹
+http://quatv2.com:8080/1388/1388/2768
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN BRASIL SD ²
+http://quatv2.com:8080/1388/1388/406
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN 2 FHD ¹
+http://quatv2.com:8080/1388/1388/31904
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN 2 HD ²
+http://quatv2.com:8080/1388/1388/4426
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN 2 SD ³
+http://quatv2.com:8080/1388/1388/19386
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN EXTRA FHD ¹
+http://quatv2.com:8080/1388/1388/8942
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN EXTRA HD ¹
+http://quatv2.com:8080/1388/1388/14042
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ESPN EXTRA SD ²
+http://quatv2.com:8080/1388/1388/4427
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ALL SPORTS HD ¹
+http://quatv2.com:8080/1388/1388/19235
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE CLUBES FHD ¹
+http://quatv2.com:8080/1388/1388/6320
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE CLUBES HD ¹
+http://quatv2.com:8080/1388/1388/2743
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE CLUBES SD ²
+http://quatv2.com:8080/1388/1388/394
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 2 FHD ¹
+http://quatv2.com:8080/1388/1388/6319
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 2 HD ²
+http://quatv2.com:8080/1388/1388/2742
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 2 SD ²
+http://quatv2.com:8080/1388/1388/392
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 3 FHD ¹
+http://quatv2.com:8080/1388/1388/6318
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 3 HD ³
+http://quatv2.com:8080/1388/1388/7697
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 3 SD ³
+http://quatv2.com:8080/1388/1388/19392
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 4 FHD ¹
+http://quatv2.com:8080/1388/1388/6317
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 4 HD ²
+http://quatv2.com:8080/1388/1388/2740
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 4 SD ³
+http://quatv2.com:8080/1388/1388/4322
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 5 FHD ¹
+http://quatv2.com:8080/1388/1388/32816
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 5 HD ²
+http://quatv2.com:8080/1388/1388/387
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 5 SD ²
+http://quatv2.com:8080/1388/1388/386
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 6 FHD ¹
+http://quatv2.com:8080/1388/1388/32818
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 6 HD ²
+http://quatv2.com:8080/1388/1388/385
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 6 SD ³
+http://quatv2.com:8080/1388/1388/7694
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 7 FHD ²
+http://quatv2.com:8080/1388/1388/31216
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 7 HD ²
+http://quatv2.com:8080/1388/1388/4433
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 7 SD ³
+http://quatv2.com:8080/1388/1388/7693
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 8 SD ¹
+http://quatv2.com:8080/1388/1388/381
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PREMIERE 8 SD ²
+http://quatv2.com:8080/1388/1388/7692
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO FHD ¹
+http://quatv2.com:8080/1388/1388/6346
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO HD ²
+http://quatv2.com:8080/1388/1388/2757
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO SD ²
+http://quatv2.com:8080/1388/1388/343
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO 2 FHD ¹
+http://quatv2.com:8080/1388/1388/6356
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO 2 HD ²
+http://quatv2.com:8080/1388/1388/2756
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO 2 SD ³
+http://quatv2.com:8080/1388/1388/4283
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO FAMILY FHD ²
+http://quatv2.com:8080/1388/1388/31165
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO FAMILY HD ²
+http://quatv2.com:8080/1388/1388/340
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO FAMILY SD ²
+http://quatv2.com:8080/1388/1388/339
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO FAMILY SD ³
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO PLUS FHD ¹
+http://quatv2.com:8080/1388/1388/6548
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO PLUS HD ²
+http://quatv2.com:8080/1388/1388/338
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO PLUS SD ³
+http://quatv2.com:8080/1388/1388/4278
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO SIGNATURE FHD ¹
+http://quatv2.com:8080/1388/1388/45235
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO SIGNATURE HD ²
+http://quatv2.com:8080/1388/1388/334
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HBO SIGNATURE SD ²
+http://quatv2.com:8080/1388/1388/333
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE ACTION FHD ¹
+http://quatv2.com:8080/1388/1388/6352
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE ACTION HD ²
+http://quatv2.com:8080/1388/1388/305
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE ACTION SD ²
+http://quatv2.com:8080/1388/1388/304
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE CULT FHD ²
+http://quatv2.com:8080/1388/1388/31240
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE CULT HD ²
+http://quatv2.com:8080/1388/1388/303
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE CULT SD ²
+http://quatv2.com:8080/1388/1388/302
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE FUN FHD ¹
+http://quatv2.com:8080/1388/1388/6351
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE FUN HD ²
+http://quatv2.com:8080/1388/1388/301
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE FUN SD ³
+http://quatv2.com:8080/1388/1388/19407
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE PIPOCA FHD ¹
+http://quatv2.com:8080/1388/1388/6350
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE PIPOCA HD ²
+http://quatv2.com:8080/1388/1388/299
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE PIPOCA SD ³
+http://quatv2.com:8080/1388/1388/19408
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE PREMIUM FHD ¹
+http://quatv2.com:8080/1388/1388/6349
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE PREMIUM HD ²
+http://quatv2.com:8080/1388/1388/297
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE PREMIUM SD ²
+http://quatv2.com:8080/1388/1388/296
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE TOUCH FHD ¹
+http://quatv2.com:8080/1388/1388/6348
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE TOUCH HD ²
+http://quatv2.com:8080/1388/1388/295
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TELECINE TOUCH SD ³
+http://quatv2.com:8080/1388/1388/19410
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",A&E FHD ¹
+http://quatv2.com:8080/1388/1388/9528
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",A&E HD ²
+http://quatv2.com:8080/1388/1388/372
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",A&E SD ²
+http://quatv2.com:8080/1388/1388/371
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",AMC FHD ¹
+http://quatv2.com:8080/1388/1388/9529
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",AMC HD ²
+http://quatv2.com:8080/1388/1388/370
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",AMC SD ³
+http://quatv2.com:8080/1388/1388/19396
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",AXN FHD ¹
+http://quatv2.com:8080/1388/1388/8926
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",AXN HD ²
+http://quatv2.com:8080/1388/1388/364
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",AXN SD ³
+http://quatv2.com:8080/1388/1388/4296
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CANAL SONY FHD ¹
+http://quatv2.com:8080/1388/1388/43977
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CANAL SONY HD ²
+http://quatv2.com:8080/1388/1388/315
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CANAL SONY SD ²
+http://quatv2.com:8080/1388/1388/314
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CINEMAX FHD ¹
+http://quatv2.com:8080/1388/1388/45239
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CINEMAX HD ²
+http://quatv2.com:8080/1388/1388/356
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CINEMAX SD ²
+http://quatv2.com:8080/1388/1388/355
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX FHD ¹
+http://quatv2.com:8080/1388/1388/8940
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX HD ²
+http://quatv2.com:8080/1388/1388/354
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX SD ³
+http://quatv2.com:8080/1388/1388/4294
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX LIFE FHD ¹
+http://quatv2.com:8080/1388/1388/6359
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX LIFE HD ²
+http://quatv2.com:8080/1388/1388/352
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX LIFE SD ¹
+http://quatv2.com:8080/1388/1388/14043
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX LIFE SD ²
+http://quatv2.com:8080/1388/1388/351
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX LIFE SD ³
+http://quatv2.com:8080/1388/1388/4292
+#EXTINF:-1,FOX PREMIUM FHD ¹
+http://quatv2.com:8080/1388/1388/6358
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX PREMIUM HD ²
+http://quatv2.com:8080/1388/1388/350
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX PREMIUM 2 FHD ¹
+http://quatv2.com:8080/1388/1388/6549
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOX PREMIUM 2 HD ²
+http://quatv2.com:8080/1388/1388/348
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FX FHD ¹
+http://quatv2.com:8080/1388/1388/45236
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FX HD ²
+http://quatv2.com:8080/1388/1388/346
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FX SD ²
+http://quatv2.com:8080/1388/1388/345
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",LIFETIME FHD ¹
+http://quatv2.com:8080/1388/1388/43976
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",LIFETIME HD ²
+http://quatv2.com:8080/1388/1388/332
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",LIFETIME SD ³
+http://quatv2.com:8080/1388/1388/4272
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MAX FHD ¹
+http://quatv2.com:8080/1388/1388/8924
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MAX HD ²
+http://quatv2.com:8080/1388/1388/330
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MAX SD ³
+http://quatv2.com:8080/1388/1388/8004
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MAX PRIME FHD ¹
+http://quatv2.com:8080/1388/1388/19400
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MAX PRIME HD ²
+http://quatv2.com:8080/1388/1388/328
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MAX PRIME SD ²
+http://quatv2.com:8080/1388/1388/327
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MAX PRIME SD ³
+http://quatv2.com:8080/1388/1388/7914
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MAX UP FHD ¹
+http://quatv2.com:8080/1388/1388/6360
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MAX UP HD ²
+http://quatv2.com:8080/1388/1388/324
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MAX UP SD ³
+http://quatv2.com:8080/1388/1388/7917
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MEGAPIX FHD ¹
+http://quatv2.com:8080/1388/1388/6354
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MEGAPIX HD ²
+http://quatv2.com:8080/1388/1388/322
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MEGAPIX SD ³
+http://quatv2.com:8080/1388/1388/7918
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PARAMOUNT FHD ¹
+http://quatv2.com:8080/1388/1388/43973
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PARAMOUNT HD ²
+http://quatv2.com:8080/1388/1388/318
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PARAMOUNT SD ²
+http://quatv2.com:8080/1388/1388/317
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPACE FHD ¹
+http://quatv2.com:8080/1388/1388/8944
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPACE HD ²
+http://quatv2.com:8080/1388/1388/313
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SPACE SD ³
+http://quatv2.com:8080/1388/1388/7921
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",STUDIO UNIVERSAL FHD ²
+http://quatv2.com:8080/1388/1388/31207
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",STUDIO UNIVERSAL HD ²
+http://quatv2.com:8080/1388/1388/311
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",STUDIO UNIVERSAL SD ³
+http://quatv2.com:8080/1388/1388/7922
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SYFY FHD ¹
+http://quatv2.com:8080/1388/1388/45228
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SYFY HD ²
+http://quatv2.com:8080/1388/1388/309
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",SYFY SD ²
+http://quatv2.com:8080/1388/1388/308
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TBS FHD ¹
+http://quatv2.com:8080/1388/1388/6361
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TBS HD ²
+http://quatv2.com:8080/1388/1388/307
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TBS SD ²
+http://quatv2.com:8080/1388/1388/306
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TNT FHD ²
+http://quatv2.com:8080/1388/1388/31214
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TNT HD ²
+http://quatv2.com:8080/1388/1388/368
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",,TNT SD ³
+http://quatv2.com:8080/1388/1388/4300
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TNT SERIES FHD ¹
+http://quatv2.com:8080/1388/1388/6353
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TNT SERIES HD ²
+http://quatv2.com:8080/1388/1388/366
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TNT SERIES SD ³
+http://quatv2.com:8080/1388/1388/7927
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",UNIVERSAL CHANNEL FHD ¹
+http://quatv2.com:8080/1388/1388/8939
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",UNIVERSAL CHANNEL HD ²
+http://quatv2.com:8080/1388/1388/291
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",UNIVERSAL CHANNEL SD ³
+http://quatv2.com:8080/1388/1388/19404
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",WARNER CHANNEL FHD ¹
+http://quatv2.com:8080/1388/1388/6355
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",WARNER CHANEL HD ²
+http://quatv2.com:8080/1388/1388/4143
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",WARNER CHANNEL SD ³
+http://quatv2.com:8080/1388/1388/7929
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ANIMAL PLANET FHD ¹
+http://quatv2.com:8080/1388/1388/9530
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ANIMAL PLANET HD ²
+http://quatv2.com:8080/1388/1388/444
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ANIMAL PLANET SD ²
+http://quatv2.com:8080/1388/1388/443
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY CHANNEL FHD ²
+http://quatv2.com:8080/1388/1388/31197
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY CHANNEL HD ²
+http://quatv2.com:8080/1388/1388/440
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY CHANNEL SD ²
+http://quatv2.com:8080/1388/1388/439
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY CIVILIZATION FHD ²
+http://quatv2.com:8080/1388/1388/31237
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY CIVILIZATION HD ²
+http://quatv2.com:8080/1388/1388/19411
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY CIVILIZATION SD ²
+http://quatv2.com:8080/1388/1388/437
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY H&H FHD ²
+http://quatv2.com:8080/1388/1388/31172
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY H&H HD ²
+http://quatv2.com:8080/1388/1388/436
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY H&H SD ²
+http://quatv2.com:8080/1388/1388/435
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY H&H SD ³
+http://quatv2.com:8080/1388/1388/4354
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY SCIENCE FHD ²
+http://quatv2.com:8080/1388/1388/31236
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY SCIENCE HD ²
+http://quatv2.com:8080/1388/1388/434
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY SCIENCE SD ²
+http://quatv2.com:8080/1388/1388/433
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY THEATER FHD ¹
+http://quatv2.com:8080/1388/1388/45238
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY THEATER HD ²
+http://quatv2.com:8080/1388/1388/432
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY THEATER SD ²
+http://quatv2.com:8080/1388/1388/431
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY TURBO FHD ¹
+http://quatv2.com:8080/1388/1388/6297
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY TURBO FHD ³
+http://quatv2.com:8080/1388/1388/43480
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY TURBO HD ¹
+http://quatv2.com:8080/1388/1388/430
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY TURBO SD ²
+http://quatv2.com:8080/1388/1388/429
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY WORD FHD ¹
+http://quatv2.com:8080/1388/1388/45237
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY WORLD HD ²
+http://quatv2.com:8080/1388/1388/428
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY WORLD SD ²
+http://quatv2.com:8080/1388/1388/427
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",INVESTIGAÇÃO DISCOVERY FHD ¹
+http://quatv2.com:8080/1388/1388/8943
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",INVESTIGAÇÃO DISCOVERY HD ²
+http://quatv2.com:8080/1388/1388/591
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",INVESTIGAÇÃO DISCOVERY SD ²
+http://quatv2.com:8080/1388/1388/590
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HISTORY CHANNEL FHD ¹
+http://quatv2.com:8080/1388/1388/30857
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HISTORY CHANNEL HD ²
+http://quatv2.com:8080/1388/1388/425
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HISTORY CHANNEL SD ²
+http://quatv2.com:8080/1388/1388/424
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",H2 FHD ¹
+http://quatv2.com:8080/1388/1388/6546
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",H2 HD ²
+http://quatv2.com:8080/1388/1388/423
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",H2 SD ²
+http://quatv2.com:8080/1388/1388/422
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NATGEO WILD FHD ¹
+http://quatv2.com:8080/1388/1388/43971
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NATGEO WILD HD ²
+http://quatv2.com:8080/1388/1388/421
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NATGEO WILD SD ²
+http://quatv2.com:8080/1388/1388/420
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NATIONAL GEOGRAPHIC FHD ¹
+http://quatv2.com:8080/1388/1388/6296
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NATIONAL GEOGRAPHIC HD ²
+http://quatv2.com:8080/1388/1388/419
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NATIONAL GEOGRAPHIC SD ²
+http://quatv2.com:8080/1388/1388/418
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NICK JR FHD ¹
+http://quatv2.com:8080/1388/1388/6550
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NICKJR HD ²
+http://quatv2.com:8080/1388/1388/537
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NICKJR SD ²
+http://quatv2.com:8080/1388/1388/536
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NICKELODEON FHD ¹
+http://quatv2.com:8080/1388/1388/31899
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NICKELODEON HD ²
+http://quatv2.com:8080/1388/1388/535
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NICKELODEON SD ²
+http://quatv2.com:8080/1388/1388/534
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY KIDS FHD ¹
+http://quatv2.com:8080/1388/1388/31901
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY KIDS HD ²
+http://quatv2.com:8080/1388/1388/547
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISCOVERY KIDS SD ²
+http://quatv2.com:8080/1388/1388/546
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISNEY CHANNEL FHD ¹
+http://quatv2.com:8080/1388/1388/33525
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISNEY CHANNEL HD ³
+http://quatv2.com:8080/1388/1388/43478
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISNEY CHANNEL SD ²
+http://quatv2.com:8080/1388/1388/544
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISNEY JUNIOR FHD ¹
+http://quatv2.com:8080/1388/1388/31903
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISNEY JUNIOR HD ²
+http://quatv2.com:8080/1388/1388/543
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISNEY JUNIOR SD ³
+http://quatv2.com:8080/1388/1388/7724
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISNEY XD FHD ¹
+http://quatv2.com:8080/1388/1388/33524
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISNEY XD HD ²
+http://quatv2.com:8080/1388/1388/541
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",DISNEY XD SD ³
+http://quatv2.com:8080/1388/1388/7723
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CARTOON NETWORK FHD ¹
+http://quatv2.com:8080/1388/1388/6395
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CARTOON NETWORK HD ²
+http://quatv2.com:8080/1388/1388/549
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CARTOON NETWORK SD ²
+http://quatv2.com:8080/1388/1388/548
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOOB FHD ¹
+http://quatv2.com:8080/1388/1388/31902
+
+#EXTINF:-1,GLOOB HD ²
+http://quatv2.com:8080/1388/1388/2815
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOOB SD ³
+http://quatv2.com:8080/1388/1388/7939
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NATGEO KIDS FHD ¹
+http://quatv2.com:8080/1388/1388/8945
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NATGEO KIDS HD ²
+http://quatv2.com:8080/1388/1388/539
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NATGEO KIDS SD ¹
+http://quatv2.com:8080/1388/1388/14049
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NATGEO KIDS SD ³
+http://quatv2.com:8080/1388/1388/4397
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BOOMERANG FHD ¹
+http://quatv2.com:8080/1388/1388/31900
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BOOMERANG HD ¹
+http://quatv2.com:8080/1388/1388/32799
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BOOMERANG SD ²
+http://quatv2.com:8080/1388/1388/550
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PLAY KIDS FHD ¹
+http://quatv2.com:8080/1388/1388/30667
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PLAYKIDS HD ³
+http://quatv2.com:8080/1388/1388/43446
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BABY TV SD ²
+http://quatv2.com:8080/1388/1388/471
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BABY TV SD ³
+http://quatv2.com:8080/1388/1388/4412
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TV RATIMBUM HD ²
+http://quatv2.com:8080/1388/1388/44585
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TV RATIMBUM SD ²
+http://quatv2.com:8080/1388/1388/531
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TV RATIMBUM SD ³
+http://quatv2.com:8080/1388/1388/43794
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOOBINHO HD ³
+http://quatv2.com:8080/1388/1388/43452
+#EXTINF:-1,TLC HD ¹
+http://quatv2.com:8080/1388/1388/293
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TLC SD ³
+http://quatv2.com:8080/1388/1388/4328
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",OFF FHD ²
+http://quatv2.com:8080/1388/1388/31180
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",OFF HD ²
+http://quatv2.com:8080/1388/1388/320
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",OFF SD ²
+http://quatv2.com:8080/1388/1388/319
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BIS FHD ²
+http://quatv2.com:8080/1388/1388/31183
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BIS HD ²
+http://quatv2.com:8080/1388/1388/362
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",BIS SD ³
+http://quatv2.com:8080/1388/1388/4393
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",COMEDY CENTRAL FHD ¹
+http://quatv2.com:8080/1388/1388/6307
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",COMEDY CENTRAL HD ²
+http://quatv2.com:8080/1388/1388/442
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",COMEDY CENTRAL SD ²
+http://quatv2.com:8080/1388/1388/441
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOOD NETWORK FHD ²
+http://quatv2.com:8080/1388/1388/31228
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOOD NETWORK HD ²
+http://quatv2.com:8080/1388/1388/464
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FOOD NETWORK SD ²
+http://quatv2.com:8080/1388/1388/463
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBOSAT HD ³
+http://quatv2.com:8080/1388/1388/43449
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GLOBOSAT SD ²
+http://quatv2.com:8080/1388/1388/461
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GNT FHD ²
+http://quatv2.com:8080/1388/1388/31504
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GNT HD ²
+http://quatv2.com:8080/1388/1388/460
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",GNT SD ²
+http://quatv2.com:8080/1388/1388/7952
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MTV LIVE FHD ¹
+http://quatv2.com:8080/1388/1388/8946
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MTV LIVE HD ¹
+http://quatv2.com:8080/1388/1388/43975
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MTV LIVE SD ¹
+http://quatv2.com:8080/1388/1388/14048
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MTV FHD ²
+http://quatv2.com:8080/1388/1388/31178
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MTV HD ¹
+http://quatv2.com:8080/1388/1388/43974
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MTV HD ²
+http://quatv2.com:8080/1388/1388/458
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MTV SD ²
+http://quatv2.com:8080/1388/1388/457
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MTV SD ³
+http://quatv2.com:8080/1388/1388/7955
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",VIVA HD ²
+http://quatv2.com:8080/1388/1388/454
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",VIVA SD ²
+http://quatv2.com:8080/1388/1388/453
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ARTE 1 FHD ¹
+http://quatv2.com:8080/1388/1388/43972
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ARTE1 SD ²
+http://quatv2.com:8080/1388/1388/473
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",ARTE 1 SD ³
+http://quatv2.com:8080/1388/1388/4395
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TCM SD ²
+http://quatv2.com:8080/1388/1388/2796
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TCM SD ³
+http://quatv2.com:8080/1388/1388/7926
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CURTA SD ²
+http://quatv2.com:8080/1388/1388/469
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CURTA SD ³
+http://quatv2.com:8080/1388/1388/4391
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",E! FHD ²
+http://quatv2.com:8080/1388/1388/31169
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",E! HD ²
+http://quatv2.com:8080/1388/1388/468
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",E! SD ³
+http://quatv2.com:8080/1388/1388/7945
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FISH TV HD ¹
+http://quatv2.com:8080/1388/1388/45244
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FISH TV SD ³
+http://quatv2.com:8080/1388/1388/7946
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MULTISHOW FHD ²
+http://quatv2.com:8080/1388/1388/31209
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MULTISHOW HD ¹
+http://quatv2.com:8080/1388/1388/456
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MULTISHOW SD ³
+http://quatv2.com:8080/1388/1388/19570
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TOONCAST HD ²
+http://quatv2.com:8080/1388/1388/7493
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TOONCAST SD ²
+http://quatv2.com:8080/1388/1388/7492
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TOONCAST SD ³
+http://quatv2.com:8080/1388/1388/19577
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",WOOHOO SD ²
+http://quatv2.com:8080/1388/1388/445
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",WOOHOO SD ³
+http://quatv2.com:8080/1388/1388/7960
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MUSIC BOX SD ²
+http://quatv2.com:8080/1388/1388/452
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MEGA HITS VH1 FHD ¹
+http://quatv2.com:8080/1388/1388/45227
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",VH1 FHD ²
+http://quatv2.com:8080/1388/1388/31189
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MEGA HITS VH1 SD ¹
+http://quatv2.com:8080/1388/1388/449
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",MEGA HITS SD ²
+http://quatv2.com:8080/1388/1388/12118
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TOP TV HD ¹
+http://quatv2.com:8080/1388/1388/30668
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PLAY TV SD ³
+http://quatv2.com:8080/1388/1388/19337
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FASHION FHD ¹
+http://quatv2.com:8080/1388/1388/45225
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",FILM & ARTS FHD ¹
+http://quatv2.com:8080/1388/1388/45226
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",PRIME BOX SD ²
+http://quatv2.com:8080/1388/1388/12116
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",HOT MUSIC SD ³
+http://quatv2.com:8080/1388/1388/7956
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TV EVANGELIZAR SD *
+http://quatv2.com:8080/1388/1388/45201
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",TV APARECIDA SD ³
+http://quatv2.com:8080/1388/1388/44889
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",CANÇAO NOVA FHD ³
+http://quatv2.com:8080/1388/1388/44890
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",REDE PLENITUDE TV HD
+http://quatv2.com:8080/1388/1388/32212
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",REDE BOAS NOVAS SD *
+http://quatv2.com:8080/1388/1388/44892
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",REDE GOSPEL SD ¹
+http://quatv2.com:8080/1388/1388/45233
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6097/ujn8pU.png" group-title="",NOVO TEMPO SD *
+http://quatv2.com:8080/1388/1388/44894
